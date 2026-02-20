@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "カム・アウェイ・ウィズ・ミー",
+  "base_artist": "ノラ・ジョーンズ",
+  "createdAt": "2026-02-20T12:40:14.950281Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Come Away With Me",
+      "artist": "Norah Jones",
+      "has_synced": false,
+      "path": "select/pl_01_Come_Away_With_Me_Norah_Jones.txt"
+    }
+  ]
+}
